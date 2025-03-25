@@ -1,8 +1,4 @@
 
-
----
-
-```markdown
 # 🔍 ZoomGestures – Gesture-Based Zoom Control 🖐️
 
 🚀 Control zoom using just your hand gestures! **ZoomGestures** uses OpenCV, MediaPipe, and PyAutoGUI to detect your hand and trigger zoom-in and zoom-out actions. Perfect for touch-free interactions!  
@@ -31,7 +27,7 @@ pip install opencv-python mediapipe numpy pyautogui
 python zoom_gestures.py
 ```
 
----
+
 
 ## 🎮 How It Works  
 1. **Show your right hand** 🖐️  
